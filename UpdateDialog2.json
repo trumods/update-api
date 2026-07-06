@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "check_interval": 0,
   "force_update": true,
   "main_link": "",
@@ -33,7 +33,7 @@
     "update_text": "UPDATE NOW"
   },
 
-  "com.example.testing": {
+  "com.jsvmsoft.stickynotes": {
     "version_code": 792,
     "version_name": "4.1.6"
   }
