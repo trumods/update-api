@@ -36,5 +36,15 @@
   "com.jsvmsoft.stickynotes": {
     "version_code": 148,
     "version_name": "3.54"
+  },
+
+  "com.example.testing": {
+    "version_code": 12,
+    "version_name": "1.2"
+  },
+
+  "packagename2": {
+    "version_code": 12,
+    "version_name": "1.2"
   }
 }
