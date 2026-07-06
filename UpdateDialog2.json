@@ -1,0 +1,40 @@
+{
+  "enabled": false,
+  "check_interval": 0,
+  "force_update": true,
+  "main_link": "",
+  "mirror_link": "",
+
+  "default_app": {
+    "check_interval": 0,
+    "force_update": true,
+    "version_code": 999,
+    "version_name": "9.9.9",
+    "main_link": "",
+    "mirror_link": ""
+  },
+
+  "global_defaults": {
+    "check_interval": 6,
+    "force_update": false,
+    "title": "Update Available!",
+    "points": [
+      "This version is outdated and will stop working very soon!",
+      "All premium mod features are fully included in the new version!",
+      "Click \"Update Now\" to get the latest version from our official Telegram channel."
+    ],
+    "whats_new": "Premium features unlocked.",
+    "main_link": "NA",
+    "mirror_link": "NA",
+    "promo_text": "Join our channel for updates",
+    "promo_link": "https://t.me/TRUMods",
+    "update_link": "https://t.me/TRUMods",
+    "cancel_text": "NOT NOW",
+    "update_text": "UPDATE NOW"
+  },
+
+  "com.pengyou.cloneapp": {
+    "version_code": 792,
+    "version_name": "4.1.6"
+  }
+}
