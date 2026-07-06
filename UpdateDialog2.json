@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "check_interval": 0,
   "force_update": true,
   "main_link": "",
