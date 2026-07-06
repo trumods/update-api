@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/config",
-      "destination": "/config.json"
+      "destination": "/UpdateDialog2.json"
     }
   ],
   "headers": [
