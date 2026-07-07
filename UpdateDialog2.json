@@ -43,8 +43,8 @@
     "version_name": "4.0.1"
   },
 
-  "packagename2": {
-    "version_code": 12,
-    "version_name": "1.2"
+  "app.ninjavpn.android": {
+    "version_code": 44,
+    "version_name": "1.4.7"
   }
 }
