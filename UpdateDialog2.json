@@ -24,8 +24,8 @@
       "Click \"Update Now\" to get the latest version from our official Telegram channel."
     ],
     "whats_new": "Premium features unlocked.",
-    "main_link": "NA",
-    "mirror_link": "NA",
+    "main_link": "",
+    "mirror_link": "",
     "promo_text": "Join our channel for updates",
     "promo_link": "https://t.me/TRUMods",
     "update_link": "https://t.me/TRUMods",
@@ -36,6 +36,11 @@
   "com.jsvmsoft.stickynotes": {
     "version_code": 148,
     "version_name": "3.54"
+  },
+
+  "com.dajiu.stay": {
+    "version_code": 67,
+    "version_name": "1.5.8"
   },
 
   "open.chat.gpt.aichat.bot.free.app": {
@@ -56,6 +61,11 @@
   "com.pengyou.cloneapp": {
     "version_code": 797,
     "version_name": "4.1.7"
+  },
+
+  "com.AFG.internetspeedmeter": {
+    "version_code": 161,
+    "version_name": "2.2.4"
   },
 
   "audioeditor.musiceditor.soundeditor.songeditor": {
