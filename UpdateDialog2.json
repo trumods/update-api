@@ -15,7 +15,7 @@
   },
 
   "global_defaults": {
-    "check_interval": 6,
+    "check_interval": 4,
     "force_update": false,
     "title": "Update Available!",
     "points": [
@@ -51,6 +51,11 @@
   "com.xproguard.vpn": {
     "version_code": 78,
     "version_name": "3.7.8"
+  },
+
+  "sa.ornetvpn": {
+    "version_code": 39,
+    "version_name": "1.5.4"
   },
 
   "com.socialnmobile.dictapps.notepad.color.note": {
