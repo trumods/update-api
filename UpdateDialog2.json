@@ -68,6 +68,12 @@
     "version_name": "6.7.5.0709"
   },
 
+  "com.pentaloop.torbrowser": {
+    "check_interval": 168,
+    "version_code": 3890,
+    "version_name": "3.890"
+  },
+
   "com.socialnmobile.dictapps.notepad.color.note": {
     "version_code": 2104860,
     "version_name": "4.8.6"
