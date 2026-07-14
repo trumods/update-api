@@ -48,6 +48,11 @@
     "version_name": "1.1.4"
   },
 
+  "com.zerone.mood": {
+    "version_code": 91,
+    "version_name": "2.40.21"
+  },
+
   "com.giamping.socks5": {
     "version_code": 20260805,
     "version_name": "20260805"
