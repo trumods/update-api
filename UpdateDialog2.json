@@ -43,6 +43,11 @@
     "version_name": "1.5.8"
   },
 
+  "water.eject.speaker.cleaner": {
+    "version_code": 55,
+    "version_name": "1.24.0"
+  },
+
   "com.codex.torrentx": {
     "version_code": 38,
     "version_name": "1.1.4"
@@ -61,6 +66,11 @@
   "com.giamping.gpvpn": {
     "version_code": 20260805,
     "version_name": "20260805"
+  },
+
+  "packagename": {
+    "version_code": 38,
+    "version_name": "2.5.5.8"
   },
 
   "com.zerone.hidesktop": {
@@ -140,8 +150,8 @@
   },
 
   "com.AFG.internetspeedmeter": {
-    "version_code": 161,
-    "version_name": "2.2.4"
+    "version_code": 162,
+    "version_name": "2.2.5"
   },
 
   "audioeditor.musiceditor.soundeditor.songeditor": {
