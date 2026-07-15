@@ -113,6 +113,11 @@
     "version_name": "1.0.42.20"
   },
 
+  "com.sportzx.live": {
+    "version_code": 15,
+    "version_name": "2.7"
+  },
+
   "sa.ornetvpn": {
     "version_code": 39,
     "version_name": "1.5.4"
