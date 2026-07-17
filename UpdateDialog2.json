@@ -58,6 +58,11 @@
     "version_name": "1.0.50.20"
   },
 
+  "com.piyush.music": {
+    "version_code": 280050100,
+    "version_name": "5.1.0"
+  },
+
   "water.eject.speaker.cleaner": {
     "version_code": 55,
     "version_name": "1.24.0"
