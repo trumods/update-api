@@ -48,9 +48,14 @@
     "version_name": "1.5.9"
   },
 
+  "com.gorillasoftware.everyproxy": {
+    "version_code": 128,
+    "version_name": "18.0.2"
+  },
+
   "com.oh.bro": {
-    "version_code": 201,
-    "version_name": "12.1.1"
+    "version_code": 203,
+    "version_name": "12.1.4"
   },
 
   "com.dong.multirun": {
@@ -66,6 +71,11 @@
   "water.eject.speaker.cleaner": {
     "version_code": 55,
     "version_name": "1.24.0"
+  },
+
+  "com.jannatott.app": {
+    "version_code": 27,
+    "version_name": "1.27"
   },
 
   "com.luckydeveloper.apkshare": {
