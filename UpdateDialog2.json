@@ -53,6 +53,11 @@
     "version_name": "18.0.2"
   },
 
+  "io.friendly.instagram": {
+    "version_code": 1327,
+    "version_name": "2.9.0"
+  },
+
   "com.oh.bro": {
     "version_code": 203,
     "version_name": "12.1.4"
@@ -129,8 +134,8 @@
   },
 
   "open.chat.gpt.aichat.bot.free.app": {
-    "version_code": 48,
-    "version_name": "1.3.1"
+    "version_code": 52,
+    "version_name": "2.9.0"
   },
 
   "com.xproguard.vpn": {
