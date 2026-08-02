@@ -48,6 +48,11 @@
     "version_name": "2.7.2"
   },
 
+  "s.sdownload.adblockerultimatebrowser": {
+    "version_code": 20012,
+    "version_name": "2.0.12"
+  },
+
   "ai.metaverselabs.grammargpt": {
     "version_code": 528,
     "version_name": "1.9.51"
@@ -62,6 +67,11 @@
     "check_interval": 24,
     "version_code": 2026080101,
     "version_name": "2.337"
+  },
+
+  "multi.parallel.dualspace.cloner": {
+    "version_code": 4100,
+    "version_name": "4.1.00.0723"
   },
 
   "com.free.vpn.super.hotspot.open": {
