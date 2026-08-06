@@ -53,6 +53,11 @@
     "version_name": "2.5.5.9"
   },
 
+  "com.eterno": {
+    "version_code": 10314,
+    "version_name": "34.0.4"
+  },
+
   "com.amazon.minitv.android.app": {
     "version_code": 50110,
     "version_name": "2.0.1.300"
