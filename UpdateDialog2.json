@@ -43,6 +43,11 @@
     "version_name": "4.8.9"
   },
 
+  "jp.co.medialogic.usbmounter": {
+    "version_code": 94,
+    "version_name": "2.00.006"
+  },
+
   "com.x.webshuttle": {
     "version_code": 715,
     "version_name": "3.8.1"
@@ -84,8 +89,8 @@
   },
 
   "net.west_hino.shortcut_plus": {
-    "version_code": 117,
-    "version_name": "11.7"
+    "version_code": 118,
+    "version_name": "11.8"
   },
 
   "dev.hexasoftware.sshVpnClient": {
@@ -221,8 +226,8 @@
   },
 
   "com.luckydeveloper.apkshare": {
-    "version_code": 154,
-    "version_name": "5.16.9"
+    "version_code": 155,
+    "version_name": "5.16.10"
   },
 
   "com.codex.torrentx": {
@@ -317,8 +322,8 @@
   },
 
   "com.pengyou.cloneapp": {
-    "version_code": 797,
-    "version_name": "4.1.7"
+    "version_code": 806,
+    "version_name": "4.2.0"
   },
 
   "com.AFG.internetspeedmeter": {
