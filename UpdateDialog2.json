@@ -53,6 +53,11 @@
     "version_name": "3.8.1"
   },
 
+  "com.appplanex.dnschanger": {
+    "version_code": 64,
+    "version_name": "3.0.0"
+  },
+
   "jp.ne.hardyinfinity.bluelightfilter.free": {
     "version_code": 2056130090,
     "version_name": "6.13.0"
@@ -150,8 +155,8 @@
   },
 
   "com.free.vpn.super.hotspot.open": {
-    "version_code": 22903,
-    "version_name": "2.29.3"
+    "version_code": 23002,
+    "version_name": "2.30.2"
   },
 
   "com.giamping.v2rayex": {
