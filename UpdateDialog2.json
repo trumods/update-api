@@ -59,13 +59,18 @@
   },
 
   "com.akira.material": {
-    "version_code": 90,
-    "version_name": "1.77"
+    "version_code": 91,
+    "version_name": "1.78"
   },
 
   "com.babg.dialx": {
     "version_code": 7,
     "version_name": "1.1.0"
+  },
+
+  "app.namso_gen.spacehowen": {
+    "version_code": 2147483647,
+    "version_name": "11.18"
   },
 
   "com.salt.music": {
@@ -104,8 +109,8 @@
   },
 
   "com.e9foreverfs.note": {
-    "version_code": 537,
-    "version_name": "5.3.7"
+    "version_code": 538,
+    "version_name": "5.3.8"
   },
 
   "net.west_hino.shortcut_plus": {
@@ -281,8 +286,8 @@
   },
 
   "com.biomes.vanced": {
-    "version_code": 90680502,
-    "version_name": "5.6.80.502"
+    "version_code": 90680504,
+    "version_name": "5.6.80.504"
   },
 
   "open.chat.gpt.aichat.bot.free.app": {
