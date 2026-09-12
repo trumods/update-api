@@ -48,14 +48,100 @@
     "version_name": "2.01.010"
   },
 
+  "com.skyjos.apps.fileexplorerfree": {
+    "version_code": 14521,
+    "version_name": "14.5.2"
+  },
+
+  "videopalyer.hd.video.music.player": {
+    "version_code": 65,
+    "version_name": "1.6.5"
+  },
+
+  "video.player.videoplayer": {
+    "version_code": 290002,
+    "version_name": "2.9.0"
+  },
+
+  "com.burakgon.dnschanger": {
+    "version_code": 1338,
+    "version_name": "1338-5r"
+  },
+
+  "net.upx.proxy.browser": {
+    "check_interval": 48,
+    "version_code": 198,
+    "version_name": "138.0.7204.180"
+  },
+
+  "studio.muggle.chatboost": {
+    "version_code": 300500241,
+    "version_name": "3.33.0"
+  },
+
+  "com.pengyou.videodownloader": {
+    "version_code": 150,
+    "version_name": "1.2.2"
+  },
+
+  "com.burakgon.netoptimizer": {
+    "version_code": 1393,
+    "version_name": "1393-2r"
+    
+  },
+
+  "com.apkcombo.app": {
+    "check_interval": 24,
+    "version_code": 45,
+    "version_name": "4.3"
+  },
+
+  "netshare.wifihotspot": {
+    "version_code": 53,
+    "version_name": "53-rm"
+  },
+
+  "pan.alexander.tordnscrypt.gp": {
+    "check_interval": 24,
+    "version_code": 0,
+    "version_name": "7.5.0"
+  },
+
+  "kha.prog.usbhotspot": {
+    "version_code": 7,
+    "version_name": "1.7"
+  },
+
   "com.x.webshuttle": {
-    "version_code": 715,
-    "version_name": "3.8.1"
+    "version_code": 716,
+    "version_name": "3.8.2"
+  },
+
+  "com.offshore.picasso": {
+    "version_code": 55,
+    "version_name": "10.13.5"
+  },
+
+  "com.atolphadev.quikshort": {
+    "version_code": 72,
+    "version_name": "1.10.0"
+  },
+
+  "com.king.moja": {
+    "check_interval": 24,
+    "version_code": 309,
+    "version_name": "9.9"
   },
 
   "com.appplanex.dnschanger": {
     "version_code": 64,
     "version_name": "3.0.0"
+  },
+
+  "com.hexamob.drivers": {
+    "check_interval": 24,
+    "version_code": 411,
+    "version_name": "4.1.1"
   },
 
   "com.akira.material": {
@@ -70,12 +156,12 @@
 
   "app.namso_gen.spacehowen": {
     "version_code": 2147483647,
-    "version_name": "11.18"
+    "version_name": "11.20"
   },
 
   "com.salt.music": {
-    "version_code": 2026081401,
-    "version_name": "12.2.1-play"
+    "version_code": 2026090601,
+    "version_name": "12.3.2-play"
   },
 
   "jp.ne.hardyinfinity.bluelightfilter.free": {
@@ -84,8 +170,8 @@
   },
 
   "com.hdqwalls.hdqwalls1": {
-    "version_code": 44,
-    "version_name": "2.5.5.9"
+    "version_code": 46,
+    "version_name": "2.5.6.0"
   },
 
   "com.ace.ex.file.manager": {
@@ -99,13 +185,13 @@
   },
 
   "com.amazon.minitv.android.app": {
-    "version_code": 50110,
-    "version_name": "2.0.1.300"
+    "version_code": 50310,
+    "version_name": "2.0.3.300"
   },
 
   "com.beta9dev.imagedownloader": {
-    "version_code": 125,
-    "version_name": "2.7.2"
+    "version_code": 127,
+    "version_name": "2.9.0"
   },
 
   "com.e9foreverfs.note": {
@@ -114,8 +200,8 @@
   },
 
   "net.west_hino.shortcut_plus": {
-    "version_code": 121,
-    "version_name": "12.1"
+    "version_code": 122,
+    "version_name": "12.2"
   },
 
   "dev.hexasoftware.sshVpnClient": {
@@ -134,8 +220,8 @@
   },
 
   "hibernate.v2.testyourandroid": {
-    "version_code": 2312102,
-    "version_name": "Hong Kong Style French Toast 12.1"
+    "version_code": 3000020,
+    "version_name": "Pineapple Bun 13.0.0"
   },
 
   "ai.metaverselabs.grammargpt": {
@@ -144,8 +230,8 @@
   },
 
   "com.shicichaxun.video": {
-    "version_code": 46,
-    "version_name": "1.3.23"
+    "version_code": 50,
+    "version_name": "1.3.27"
   },
 
   "com.tester.wpswpatester": {
@@ -175,8 +261,8 @@
   },
 
   "com.free.vpn.super.hotspot.open": {
-    "version_code": 23101,
-    "version_name": "2.31.1"
+    "version_code": 23200,
+    "version_name": "2.32.0"
   },
 
   "com.giamping.v2rayex": {
@@ -185,8 +271,8 @@
   },
 
   "com.dajiu.stay": {
-    "version_code": 68,
-    "version_name": "1.5.9"
+    "version_code": 69,
+    "version_name": "1.6.0"
   },
 
   "com.gorillasoftware.everyproxy": {
@@ -195,8 +281,8 @@
   },
 
   "kha.prog.mikrotik": {
-    "version_code": 279,
-    "version_name": "279"
+    "version_code": 281,
+    "version_name": "281"
   },
 
   "com.accspace.dapp": {
@@ -241,23 +327,23 @@
   },
 
   "by.green.tuber": {
-    "version_code": 146,
-    "version_name": "0.1.9.7"
+    "version_code": 148,
+    "version_name": "0.1.9.9"
   },
 
   "com.jannatott.app": {
-    "version_code": 27,
-    "version_name": "1.27"
+    "version_code": 30,
+    "version_name": "1.30"
   },
 
   "com.luckydeveloper.apkshare": {
-    "version_code": 156,
-    "version_name": "5.16.11"
+    "version_code": 157,
+    "version_name": "5.16.12"
   },
 
   "com.codex.torrentx": {
-    "version_code": 44,
-    "version_name": "1.1.4"
+    "version_code": 56,
+    "version_name": "1.2.6"
   },
 
   "com.zerone.mood": {
@@ -286,8 +372,8 @@
   },
 
   "com.biomes.vanced": {
-    "version_code": 90680504,
-    "version_name": "5.6.80.504"
+    "version_code": 90680529,
+    "version_name": "5.6.80.529"
   },
 
   "open.chat.gpt.aichat.bot.free.app": {
@@ -301,8 +387,8 @@
   },
 
   "com.ornet.torbrowser": {
-    "version_code": 222,
-    "version_name": "1.9.65"
+    "version_code": 228,
+    "version_name": "1.9.71"
   },
 
   "com.prismtree.sponge": {
@@ -321,8 +407,8 @@
   },
 
   "net.podslink": {
-    "version_code": 86,
-    "version_name": "1.3.9"
+    "version_code": 87,
+    "version_name": "1.4.0"
   },
 
   "kika.emoji.keyboard.teclados.clavier": {
@@ -347,8 +433,8 @@
   },
 
   "com.pengyou.cloneapp": {
-    "version_code": 807,
-    "version_name": "4.2.0"
+    "version_code": 812,
+    "version_name": "4.2.1"
   },
 
   "com.AFG.internetspeedmeter": {
@@ -357,8 +443,8 @@
   },
 
   "audioeditor.musiceditor.soundeditor.songeditor": {
-    "version_code": 10202,
-    "version_name": "2.01.62.0731"
+    "version_code": 10203,
+    "version_name": "2.01.63.0901"
   },
 
   "org.picquantmedia.grafika": {
@@ -372,7 +458,7 @@
   },
 
   "app.ninjavpn.android": {
-    "version_code": 44,
-    "version_name": "1.4.7"
+    "version_code": 45,
+    "version_name": "1.4.8"
   }
 }
