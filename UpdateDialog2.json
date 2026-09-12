@@ -276,13 +276,13 @@
   },
 
   "com.gorillasoftware.everyproxy": {
-    "version_code": 128,
-    "version_name": "18.0.2"
+    "version_code": 129,
+    "version_name": "19.0.0"
   },
 
   "kha.prog.mikrotik": {
-    "version_code": 281,
-    "version_name": "281"
+    "version_code": 283,
+    "version_name": "283"
   },
 
   "com.accspace.dapp": {
@@ -317,8 +317,8 @@
   },
 
   "com.piyush.music": {
-    "version_code": 280050102,
-    "version_name": "5.1.2"
+    "version_code": 280050108,
+    "version_name": "5.1.8"
   },
 
   "water.eject.speaker.cleaner": {
@@ -352,13 +352,13 @@
   },
 
   "com.giamping.socks5": {
-    "version_code": 20260818,
-    "version_name": "20260818"
+    "version_code": 20260912,
+    "version_name": "20260912"
   },
 
   "com.giamping.gpvpn": {
-    "version_code": 20260818,
-    "version_name": "20260818"
+    "version_code": 20260912,
+    "version_name": "20260912"
   },
 
   "com.zerone.hidesktop": {
@@ -458,7 +458,7 @@
   },
 
   "app.ninjavpn.android": {
-    "version_code": 45,
-    "version_name": "1.4.8"
+    "version_code": 46,
+    "version_name": "1.4.9"
   }
 }
