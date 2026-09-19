@@ -490,5 +490,10 @@
   "net.simplyadvanced.ltediscovery": {
     "version_code": 516,
     "version_name": "7.5.4"
+  },
+
+  "com.project100pi.videoplayer.video.player": {
+    "version_code": 23200,
+    "version_name": "2.3.2.0_release_1"
   }
 }
