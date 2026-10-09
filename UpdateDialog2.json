@@ -53,6 +53,12 @@
     "version_name": "5.4.1.0"
   },
 
+  "com.example.testing": {
+    "check_interval": 0,
+    "version_code": 12,
+    "version_name": "1.2"
+  },
+
   "com.skyjos.apps.fileexplorerfree": {
     "version_code": 14521,
     "version_name": "14.5.2"
