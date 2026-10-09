@@ -64,8 +64,8 @@
   },
 
   "video.player.videoplayer": {
-    "version_code": 291000,
-    "version_name": "2.9.1"
+    "version_code": 292000,
+    "version_name": "2.9.2"
   },
 
   "com.burakgon.dnschanger": {
@@ -80,13 +80,13 @@
   },
 
   "studio.muggle.chatboost": {
-    "version_code": 300500241,
-    "version_name": "3.33.0"
+    "version_code": 300500242,
+    "version_name": "3.34.1"
   },
 
   "com.pengyou.videodownloader": {
-    "version_code": 150,
-    "version_name": "1.2.2"
+    "version_code": 159,
+    "version_name": "1.2.4"
   },
 
   "com.burakgon.netoptimizer": {
@@ -160,18 +160,18 @@
   },
 
   "com.eco.voicerecorder.audiorecorder.recorder": {
-    "version_code": 111,
-    "version_name": "4.7.62"
+    "version_code": 112,
+    "version_name": "4.7.63"
   },
 
   "app.namso_gen.spacehowen": {
     "version_code": 2147483647,
-    "version_name": "11.20"
+    "version_name": "11.24"
   },
 
   "com.salt.music": {
-    "version_code": 2026090601,
-    "version_name": "12.3.2-play"
+    "version_code": 2026100701,
+    "version_name": "12.4.1-play"
   },
 
   "jp.ne.hardyinfinity.bluelightfilter.free": {
@@ -210,8 +210,8 @@
   },
 
   "net.west_hino.shortcut_plus": {
-    "version_code": 123,
-    "version_name": "12.3"
+    "version_code": 124,
+    "version_name": "12.4"
   },
 
   "dev.hexasoftware.sshVpnClient": {
@@ -240,8 +240,8 @@
   },
 
   "com.shicichaxun.video": {
-    "version_code": 50,
-    "version_name": "1.3.27"
+    "version_code": 54,
+    "version_name": "1.3.31"
   },
 
   "com.tester.wpswpatester": {
@@ -271,13 +271,13 @@
   },
 
   "com.free.vpn.super.hotspot.open": {
-    "version_code": 23200,
-    "version_name": "2.32.0"
+    "version_code": 23301,
+    "version_name": "2.33.1"
   },
 
   "com.giamping.v2rayex": {
-    "version_code": 20260912,
-    "version_name": "20260912"
+    "version_code": 20261001,
+    "version_name": "20261001"
   },
 
   "com.dajiu.stay": {
@@ -326,6 +326,11 @@
     "version_name": "MTM"
   },
 
+  "word.text.editor.wordpad": {
+    "version_code": 403,
+    "version_name": "4.0.3"
+  },
+
   "com.piyush.music": {
     "version_code": 280050108,
     "version_name": "5.1.8"
@@ -337,8 +342,8 @@
   },
 
   "by.green.tuber": {
-    "version_code": 148,
-    "version_name": "0.1.9.9"
+    "version_code": 150,
+    "version_name": "0.2.0.1"
   },
 
   "com.jannatott.app": {
@@ -347,8 +352,8 @@
   },
 
   "com.luckydeveloper.apkshare": {
-    "version_code": 158,
-    "version_name": "5.16.13"
+    "version_code": 160,
+    "version_name": "5.16.15"
   },
 
   "com.codex.torrentx": {
@@ -362,13 +367,13 @@
   },
 
   "com.giamping.socks5": {
-    "version_code": 20260912,
-    "version_name": "20260912"
+    "version_code": 20261001,
+    "version_name": "20261001"
   },
 
   "com.giamping.gpvpn": {
-    "version_code": 20260912,
-    "version_name": "20260912"
+    "version_code": 20261001,
+    "version_name": "20261001"
   },
 
   "com.zerone.hidesktop": {
@@ -377,18 +382,18 @@
   },
 
   "com.giamping.sevpn": {
-    "version_code": 20260912,
-    "version_name": "20260912"
+    "version_code": 20261001,
+    "version_name": "20261001"
   },
 
   "com.biomes.vanced": {
-    "version_code": 90680532,
-    "version_name": "5.6.80.532"
+    "version_code": 90680550,
+    "version_name": "5.6.80.550"
   },
 
   "open.chat.gpt.aichat.bot.free.app": {
-    "version_code": 56,
-    "version_name": "1.3.8"
+    "version_code": 58,
+    "version_name": "1.4.0"
   },
 
   "com.xproguard.vpn": {
@@ -402,8 +407,8 @@
   },
 
   "com.prismtree.sponge": {
-    "version_code": 55,
-    "version_name": "2.8.0"
+    "version_code": 56,
+    "version_name": "2.9.0"
   },
 
   "com.multiapp.morespace.app": {
@@ -417,8 +422,8 @@
   },
 
   "net.podslink": {
-    "version_code": 87,
-    "version_name": "1.4.0"
+    "version_code": 89,
+    "version_name": "1.4.2"
   },
 
   "kika.emoji.keyboard.teclados.clavier": {
@@ -433,8 +438,8 @@
   },
 
   "com.socialnmobile.dictapps.notepad.color.note": {
-    "version_code": 2104890,
-    "version_name": "4.8.9"
+    "version_code": 2104910,
+    "version_name": "4.9.1"
   },
 
   "com.jewelcaddesigns.stardns": {
@@ -443,8 +448,8 @@
   },
 
   "com.pengyou.cloneapp": {
-    "version_code": 812,
-    "version_name": "4.2.1"
+    "version_code": 820,
+    "version_name": "4.2.2"
   },
 
   "com.AFG.internetspeedmeter": {
@@ -453,8 +458,8 @@
   },
 
   "audioeditor.musiceditor.soundeditor.songeditor": {
-    "version_code": 10203,
-    "version_name": "2.01.63.0901"
+    "version_code": 10204,
+    "version_name": "2.01.64.0916"
   },
 
   "org.picquantmedia.grafika": {
@@ -462,9 +467,14 @@
     "version_name": "6.0.3"
   },
 
+  "com.goprachilabs.smarttools": {
+    "version_code": 12,
+    "version_name": "2.0"
+  },
+
   "com.urbanvpn.android": {
-    "version_code": 160,
-    "version_name": "2.2.2"
+    "version_code": 162,
+    "version_name": "2.2.4"
   },
 
   "faceapp.photoeditor.face.faceedit.faceeditor": {
@@ -477,14 +487,24 @@
     "version_name": "1.4.9"
   },
 
+  "com.multispace.app": {
+    "version_code": 128,
+    "version_name": "1.2.8"
+  },
+
   "com.nexech.superapp": {
-    "version_code": 270,
-    "version_name": "1.17.1"
+    "version_code": 290,
+    "version_name": "1.20.1"
   },
 
   "com.stcodesapp.text2speech": {
-    "version_code": 110,
-    "version_name": "3.0.7"
+    "version_code": 118,
+    "version_name": "3.0.14"
+  },
+
+  "ink.trantor.coneplayer.gp": {
+    "version_code": 343,
+    "version_name": "v1.3.0(416e89e0e)"
   },
 
   "net.simplyadvanced.ltediscovery": {
@@ -493,7 +513,48 @@
   },
 
   "com.project100pi.videoplayer.video.player": {
-    "version_code": 23200,
-    "version_name": "2.3.2.0_release_1"
+    "version_code": 23300,
+    "version_name": "2.3.3.0_release_1"
+  },
+
+  "com.fly.web.smart.browser": {
+    "version_code": 10202001,
+    "version_name": "2.2.1"
+  },
+
+  "com.video.videoplyer.axplayer": {
+    "version_code": 260906410,
+    "version_name": "2026.9.12"
+  },
+
+  "com.joeykrim.rootcheck": {
+    "check_interval": 24,
+    "version_code": 211,
+    "version_name": "6.5.12"
+  },
+
+  "com.campstudio.apkinstaller": {
+    "version_code": 9,
+    "version_name": "0.3.5"
+  },
+
+  "io.android.apkconverter": {
+    "version_code": 35,
+    "version_name": "1.0"
+  },
+
+  "io.android.xapkextractor": {
+    "version_code": 10,
+    "version_name": "1.0"
+  },
+
+  "com.parrot.downloader": {
+    "version_code": 11070,
+    "version_name": "7.0.3"
+  },
+
+  "com.lga775drm.app": {
+    "version_code": 422,
+    "version_name": "2.2"
   }
 }
