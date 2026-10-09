@@ -55,8 +55,8 @@
 
   "com.example.testing": {
     "check_interval": 0,
-    "version_code": 12,
-    "version_name": "1.2"
+    "version_code": 311,
+    "version_name": "10.1"
   },
 
   "com.skyjos.apps.fileexplorerfree": {
