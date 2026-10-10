@@ -15,7 +15,7 @@
   },
 
   "global_defaults": {
-    "check_interval": 1,
+    "check_interval": 4,
     "force_update": false,
     "title": "Update Available!",
     "points": [
@@ -34,8 +34,8 @@
   },
 
   "com.jsvmsoft.stickynotes": {
-    "version_code": 148,
-    "version_name": "3.54"
+    "version_code": 150,
+    "version_name": "3.55"
   },
 
   "com.mp4mp3": {
@@ -51,12 +51,6 @@
   "proxy.browser.unblock.sites.proxybrowser.unblocksites": {
     "version_code": 220,
     "version_name": "5.4.1.0"
-  },
-
-  "com.example.testing": {
-    "check_interval": 0,
-    "version_code": 311,
-    "version_name": "10.2"
   },
 
   "com.skyjos.apps.fileexplorerfree": {
@@ -86,8 +80,8 @@
   },
 
   "studio.muggle.chatboost": {
-    "version_code": 300500242,
-    "version_name": "3.34.1"
+    "version_code": 300500245,
+    "version_name": "3.36.0"
   },
 
   "com.pengyou.videodownloader": {
@@ -172,7 +166,7 @@
 
   "app.namso_gen.spacehowen": {
     "version_code": 2147483647,
-    "version_name": "11.24"
+    "version_name": "11.26"
   },
 
   "com.salt.music": {
@@ -181,8 +175,8 @@
   },
 
   "jp.ne.hardyinfinity.bluelightfilter.free": {
-    "version_code": 2056130090,
-    "version_name": "6.13.0"
+    "version_code": 2056150290,
+    "version_name": "6.15.2"
   },
 
   "com.hdqwalls.hdqwalls1": {
@@ -318,8 +312,8 @@
   },
 
   "com.oh.bro": {
-    "version_code": 213,
-    "version_name": "14.0.1"
+    "version_code": 221,
+    "version_name": "14.0.10"
   },
 
   "com.dong.multirun": {
@@ -358,8 +352,8 @@
   },
 
   "com.luckydeveloper.apkshare": {
-    "version_code": 160,
-    "version_name": "5.16.15"
+    "version_code": 162,
+    "version_name": "5.16.17"
   },
 
   "com.codex.torrentx": {
@@ -428,8 +422,8 @@
   },
 
   "net.podslink": {
-    "version_code": 89,
-    "version_name": "1.4.2"
+    "version_code": 92,
+    "version_name": "1.4.3"
   },
 
   "kika.emoji.keyboard.teclados.clavier": {
@@ -555,12 +549,17 @@
   },
 
   "com.parrot.downloader": {
-    "version_code": 11070,
-    "version_name": "7.0.3"
+    "version_code": 11072,
+    "version_name": "7.0.5"
   },
 
   "com.lga775drm.app": {
     "version_code": 422,
     "version_name": "2.2"
+  },
+
+  "dev.dworks.apps.anexplorer.free": {
+    "version_code": 60901,
+    "version_name": "6.0.9"
   }
 }
