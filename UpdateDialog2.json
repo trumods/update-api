@@ -15,7 +15,7 @@
   },
 
   "global_defaults": {
-    "check_interval": 4,
+    "check_interval": 1,
     "force_update": false,
     "title": "Update Available!",
     "points": [
@@ -160,8 +160,8 @@
   },
 
   "com.eco.voicerecorder.audiorecorder.recorder": {
-    "version_code": 112,
-    "version_name": "4.7.63"
+    "version_code": 113,
+    "version_name": "4.7.64"
   },
 
   "app.namso_gen.spacehowen": {
@@ -549,8 +549,8 @@
   },
 
   "com.parrot.downloader": {
-    "version_code": 11072,
-    "version_name": "7.0.5"
+    "version_code": 11074,
+    "version_name": "7.0.6"
   },
 
   "com.lga775drm.app": {
@@ -561,5 +561,10 @@
   "dev.dworks.apps.anexplorer.free": {
     "version_code": 60901,
     "version_name": "6.0.9"
+  },
+
+  "com.iexamcenter.calendarweather": {
+    "version_code": 722,
+    "version_name": "6.0.1"
   }
 }
