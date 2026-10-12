@@ -15,7 +15,7 @@
   },
 
   "global_defaults": {
-    "check_interval": 1,
+    "check_interval": 4,
     "force_update": false,
     "title": "Update Available!",
     "points": [
@@ -44,8 +44,8 @@
   },
 
   "jp.co.medialogic.usbmounter": {
-    "version_code": 95,
-    "version_name": "2.01.010"
+    "version_code": 96,
+    "version_name": "2.02.014"
   },
 
   "proxy.browser.unblock.sites.proxybrowser.unblocksites": {
@@ -566,5 +566,20 @@
   "com.iexamcenter.calendarweather": {
     "version_code": 722,
     "version_name": "6.0.1"
+  },
+
+  "com.gilby.fileexplorer": {
+    "version_code": 5,
+    "version_name": "1.2.0"
+  },
+
+  "com.aplications.main.torobid": {
+    "version_code": 5056,
+    "version_name": "10.0.5.6"
+  },
+
+  "com.iptools.networkmanager.pk": {
+    "version_code": 56,
+    "version_name": "2.0.2"
   }
 }
