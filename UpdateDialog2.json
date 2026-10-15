@@ -80,8 +80,8 @@
   },
 
   "studio.muggle.chatboost": {
-    "version_code": 300500245,
-    "version_name": "3.36.0"
+    "version_code": 300500246,
+    "version_name": "3.37.0"
   },
 
   "com.pengyou.videodownloader": {
@@ -118,8 +118,8 @@
   },
 
   "com.x.webshuttle": {
-    "version_code": 716,
-    "version_name": "3.8.2"
+    "version_code": 722,
+    "version_name": "4.0.0"
   },
 
   "com.offshore.picasso": {
@@ -165,8 +165,8 @@
   },
 
   "app.namso_gen.spacehowen": {
-    "version_code": 2147483647,
-    "version_name": "11.26"
+    "version_code": 129,
+    "version_name": "11.27"
   },
 
   "com.salt.music": {
@@ -291,8 +291,8 @@
   },
 
   "kha.prog.mikrotik": {
-    "version_code": 283,
-    "version_name": "283"
+    "version_code": 284,
+    "version_name": "284"
   },
 
   "com.accspace.dapp": {
@@ -554,7 +554,7 @@
   },
 
   "com.lga775drm.app": {
-    "version_code": 422,
+    "version_code": 436,
     "version_name": "2.2"
   },
 
@@ -599,8 +599,8 @@
   },
 
   "com.bottomnotifications.app": {
-    "version_code": 32,
-    "version_name": "2.5"
+    "version_code": 34,
+    "version_name": "2.6.1"
   },
 
   "com.edgevpn.secure.proxy.unblock": {
@@ -609,8 +609,8 @@
   },
 
   "com.ideastocode.nonet": {
-    "version_code": 18,
-    "version_name": "3.4"
+    "version_code": 19,
+    "version_name": "3.5"
   },
 
   "com.playit.videoplayer": {
@@ -636,5 +636,20 @@
   "com.leedroid.shortcutter": {
     "version_code": 987,
     "version_name": "9.0.87"
+  },
+
+  "com.apps.inspironxp.changeip": {
+    "version_code": 97,
+    "version_name": "97"
+  },
+
+  "com.kutblog.arabicbanglaquran": {
+    "version_code": 1114,
+    "version_name": "11.1.4"
+  },
+
+  "com.remixstudios.webbiebase": {
+    "version_code": 174,
+    "version_name": "1.4.34"
   }
 }
