@@ -387,8 +387,8 @@
   },
 
   "com.biomes.vanced": {
-    "version_code": 50681105,
-    "version_name": "5.6.81.105"
+    "version_code": 90681108,
+    "version_name": "5.6.81.108"
   },
 
   "open.chat.gpt.aichat.bot.free.app": {
@@ -438,8 +438,8 @@
   },
 
   "com.socialnmobile.dictapps.notepad.color.note": {
-    "version_code": 2104920,
-    "version_name": "4.9.2"
+    "version_code": 2104930,
+    "version_name": "4.9.3"
   },
 
   "com.jewelcaddesigns.stardns": {
@@ -584,8 +584,8 @@
   },
 
   "com.codedac.clipboard": {
-    "version_code": 162,
-    "version_name": "10.13.11"
+    "version_code": 163,
+    "version_name": "10.13.12"
   },
 
   "com.codedac.volumebooster": {
@@ -704,12 +704,47 @@
   },
 
   "com.appplanex.qrcodegeneratorscanner": {
-    "version_code": 64,
-    "version_name": "1.9.6"
+    "version_code": 65,
+    "version_name": "1.9.7"
   },
 
   "com.learnlanguage.tenminuteenglish.speakanewlanguage": {
     "version_code": 38,
     "version_name": "1.3.7"
+  },
+
+  "website.techalbania.generaldns": {
+    "version_code": 25,
+    "version_name": "2.2.6"
+  },
+
+  "com.frack.spotiqten": {
+    "version_code": 174,
+    "version_name": "T.15.5.0"
+  },
+
+  "pamiesolutions.blacklistcall": {
+    "version_code": 257,
+    "version_name": "19.8.5"
+  },
+
+  "drawing.trace.sketch.draw.anything": {
+    "version_code": 55,
+    "version_name": "5.5"
+  },
+
+  "com.frederic.sailfreegps": {
+    "version_code": 288,
+    "version_name": "5.1.4"
+  },
+
+  "slide.watchFrenzy": {
+    "version_code": 31103302,
+    "version_name": "10.3.3"
+  },
+
+  "com.rocks.music.videoplayer": {
+    "version_code": 1204,
+    "version_name": "v12.1.470"
   }
 }
