@@ -281,8 +281,8 @@
   },
 
   "com.dajiu.stay": {
-    "version_code": 69,
-    "version_name": "1.6.0"
+    "version_code": 70,
+    "version_name": "1.6.1"
   },
 
   "com.gorillasoftware.everyproxy": {
@@ -312,8 +312,8 @@
   },
 
   "com.oh.bro": {
-    "version_code": 223,
-    "version_name": "14.1.0"
+    "version_code": 224,
+    "version_name": "14.1.1"
   },
 
   "com.dong.multirun": {
@@ -458,8 +458,8 @@
   },
 
   "audioeditor.musiceditor.soundeditor.songeditor": {
-    "version_code": 10204,
-    "version_name": "2.01.64.0916"
+    "version_code": 10206,
+    "version_name": "2.01.65.1014"
   },
 
   "org.picquantmedia.grafika": {
@@ -584,8 +584,8 @@
   },
 
   "com.codedac.clipboard": {
-    "version_code": 163,
-    "version_name": "10.13.12"
+    "version_code": 164,
+    "version_name": "10.13.13"
   },
 
   "com.codedac.volumebooster": {
@@ -599,7 +599,7 @@
   },
 
   "com.bottomnotifications.app": {
-    "version_code": 35,
+    "version_code": 38,
     "version_name": "2.6.1"
   },
 
@@ -704,8 +704,8 @@
   },
 
   "com.appplanex.qrcodegeneratorscanner": {
-    "version_code": 65,
-    "version_name": "1.9.7"
+    "version_code": 66,
+    "version_name": "1.9.8"
   },
 
   "com.learnlanguage.tenminuteenglish.speakanewlanguage": {
@@ -729,8 +729,8 @@
   },
 
   "drawing.trace.sketch.draw.anything": {
-    "version_code": 55,
-    "version_name": "5.5"
+    "version_code": 56,
+    "version_name": "5.6"
   },
 
   "com.frederic.sailfreegps": {
@@ -746,5 +746,15 @@
   "com.rocks.music.videoplayer": {
     "version_code": 1204,
     "version_name": "v12.1.470"
+  },
+
+  "com.netblade.tools": {
+    "version_code": 95,
+    "version_name": "1.8.7"
+  },
+
+  "webtools.ddm.com.webtools": {
+    "version_code": 350,
+    "version_name": "3.5"
   }
 }
