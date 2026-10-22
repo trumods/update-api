@@ -54,8 +54,8 @@
   },
 
   "com.skyjos.apps.fileexplorerfree": {
-    "version_code": 14521,
-    "version_name": "14.5.2"
+    "version_code": 14601,
+    "version_name": "14.6"
   },
 
   "videopalyer.hd.video.music.player": {
@@ -80,8 +80,8 @@
   },
 
   "studio.muggle.chatboost": {
-    "version_code": 300500246,
-    "version_name": "3.37.0"
+    "version_code": 300500248,
+    "version_name": "3.40.0"
   },
 
   "com.pengyou.videodownloader": {
@@ -123,8 +123,8 @@
   },
 
   "com.offshore.picasso": {
-    "version_code": 55,
-    "version_name": "10.13.5"
+    "version_code": 56,
+    "version_name": "10.14.0"
   },
 
   "com.atolphadev.quikshort": {
@@ -175,8 +175,8 @@
   },
 
   "jp.ne.hardyinfinity.bluelightfilter.free": {
-    "version_code": 2056150290,
-    "version_name": "6.15.2"
+    "version_code": 2056160290,
+    "version_name": "6.16.2"
   },
 
   "com.hdqwalls.hdqwalls1": {
@@ -513,8 +513,8 @@
   },
 
   "com.project100pi.videoplayer.video.player": {
-    "version_code": 23300,
-    "version_name": "2.3.3.0_release_1"
+    "version_code": 24000,
+    "version_name": "2.4.0.0_release_1"
   },
 
   "com.fly.web.smart.browser": {
@@ -699,8 +699,8 @@
   },
 
   "ax.filemanager.android.files.fileexplorer.folder": {
-    "version_code": 260906297,
-    "version_name": "2026.10.17"
+    "version_code": 260906301,
+    "version_name": "2026.10.21"
   },
 
   "com.appplanex.qrcodegeneratorscanner": {
@@ -756,5 +756,30 @@
   "webtools.ddm.com.webtools": {
     "version_code": 350,
     "version_name": "3.5"
+  },
+
+  "com.yugongkeji.podstool": {
+    "version_code": 186,
+    "version_name": "G1.30.2"
+  },
+
+  "com.rayo.mutevideo": {
+    "version_code": 50,
+    "version_name": "4.7"
+  },
+
+  "compass.freecompassapp.digitalcompass": {
+    "version_code": 52,
+    "version_name": "2.4.3"
+  },
+
+  "com.trust.callerapp.blockcall": {
+    "version_code": 103,
+    "version_name": "1.0.3"
+  },
+
+  "com.starstudio.ipcamviewer": {
+    "version_code": 21,
+    "version_name": "1.2.5"
   }
 }
