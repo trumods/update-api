@@ -549,7 +549,7 @@
   },
 
   "com.parrot.downloader": {
-    "version_code": 11075,
+    "version_code": 11076,
     "version_name": "7.1.0"
   },
 
@@ -796,5 +796,10 @@
   "com.andcreate.app.trafficmonitor": {
     "version_code": 3367,
     "version_name": "1.25.3367"
+  },
+
+  "com.tqz.appinf": {
+    "version_code": 11301,
+    "version_name": "1.1.3"
   }
 }
