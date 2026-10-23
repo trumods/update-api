@@ -210,8 +210,8 @@
   },
 
   "net.west_hino.shortcut_plus": {
-    "version_code": 124,
-    "version_name": "12.4"
+    "version_code": 126,
+    "version_name": "12.6"
   },
 
   "dev.hexasoftware.sshVpnClient": {
@@ -312,8 +312,8 @@
   },
 
   "com.oh.bro": {
-    "version_code": 224,
-    "version_name": "14.1.1"
+    "version_code": 225,
+    "version_name": "15.0.1"
   },
 
   "com.dong.multirun": {
@@ -352,8 +352,8 @@
   },
 
   "com.luckydeveloper.apkshare": {
-    "version_code": 163,
-    "version_name": "5.16.18"
+    "version_code": 164,
+    "version_name": "5.16.19"
   },
 
   "com.codex.torrentx": {
@@ -422,8 +422,8 @@
   },
 
   "net.podslink": {
-    "version_code": 92,
-    "version_name": "1.4.3"
+    "version_code": 93,
+    "version_name": "1.4.4"
   },
 
   "kika.emoji.keyboard.teclados.clavier": {
@@ -534,8 +534,8 @@
   },
 
   "com.campstudio.apkinstaller": {
-    "version_code": 9,
-    "version_name": "0.3.5"
+    "version_code": 12,
+    "version_name": "0.3.8"
   },
 
   "io.android.apkconverter": {
@@ -644,8 +644,8 @@
   },
 
   "com.kutblog.arabicbanglaquran": {
-    "version_code": 1114,
-    "version_name": "11.1.4"
+    "version_code": 1115,
+    "version_name": "11.1.5"
   },
 
   "com.remixstudios.webbiebase": {
@@ -724,8 +724,8 @@
   },
 
   "pamiesolutions.blacklistcall": {
-    "version_code": 257,
-    "version_name": "19.8.5"
+    "version_code": 258,
+    "version_name": "19.8.6"
   },
 
   "drawing.trace.sketch.draw.anything": {
@@ -739,8 +739,8 @@
   },
 
   "slide.watchFrenzy": {
-    "version_code": 31103302,
-    "version_name": "10.3.3"
+    "version_code": 31103403,
+    "version_name": "10.3.4"
   },
 
   "com.rocks.music.videoplayer": {
@@ -764,8 +764,8 @@
   },
 
   "com.rayo.mutevideo": {
-    "version_code": 50,
-    "version_name": "4.7"
+    "version_code": 51,
+    "version_name": "4.8"
   },
 
   "compass.freecompassapp.digitalcompass": {
@@ -781,5 +781,20 @@
   "com.starstudio.ipcamviewer": {
     "version_code": 21,
     "version_name": "1.2.5"
+  },
+
+  "com.starstudio.filemanager": {
+    "version_code": 8,
+    "version_name": "1.0.6"
+  },
+
+  "com.rhmsoft.edit": {
+    "version_code": 285,
+    "version_name": "1.12.13"
+  },
+
+  "com.andcreate.app.trafficmonitor": {
+    "version_code": 3367,
+    "version_name": "1.25.3367"
   }
 }
