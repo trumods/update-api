@@ -170,8 +170,8 @@
   },
 
   "com.salt.music": {
-    "version_code": 2026100701,
-    "version_name": "12.4.1-play"
+    "version_code": 2026102402,
+    "version_name": "12.5.1-play"
   },
 
   "jp.ne.hardyinfinity.bluelightfilter.free": {
@@ -266,8 +266,8 @@
   },
 
   "multi.parallel.dualspace.cloner": {
-    "version_code": 4100,
-    "version_name": "4.1.00.0723"
+    "version_code": 4160,
+    "version_name": "4.1.60.1022"
   },
 
   "com.free.vpn.super.hotspot.open": {
@@ -312,8 +312,8 @@
   },
 
   "com.oh.bro": {
-    "version_code": 225,
-    "version_name": "15.0.1"
+    "version_code": 228,
+    "version_name": "228"
   },
 
   "com.dong.multirun": {
@@ -579,13 +579,13 @@
   },
 
   "com.iptools.networkmanager.pk": {
-    "version_code": 56,
-    "version_name": "2.0.2"
+    "version_code": 57,
+    "version_name": "2.0.3"
   },
 
   "com.codedac.clipboard": {
-    "version_code": 166,
-    "version_name": "10.14.1"
+    "version_code": 167,
+    "version_name": "10.14.2"
   },
 
   "com.codedac.volumebooster": {
@@ -599,8 +599,8 @@
   },
 
   "com.bottomnotifications.app": {
-    "version_code": 38,
-    "version_name": "2.6.1"
+    "version_code": 42,
+    "version_name": "2.7"
   },
 
   "com.edgevpn.secure.proxy.unblock": {
@@ -811,5 +811,10 @@
   "com.booleanbites.imagitor": {
     "version_code": 180,
     "version_name": "1.10.6"
+  },
+
+  "store.watchbase.android": {
+    "version_code": 70,
+    "version_name": "5.3.1"
   }
 }
