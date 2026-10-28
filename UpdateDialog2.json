@@ -594,8 +594,8 @@
   },
 
   "app.notedraft.noteall": {
-    "version_code": 19,
-    "version_name": "1.3.1"
+    "version_code": 22,
+    "version_name": "1.4.1"
   },
 
   "com.bottomnotifications.app": {
@@ -669,8 +669,8 @@
   },
 
   "com.predictapps.mobiletester": {
-    "version_code": 226,
-    "version_name": "2.2.6"
+    "version_code": 228,
+    "version_name": "2.2.8"
   },
 
   "com.dlsr.cam": {
@@ -769,8 +769,8 @@
   },
 
   "compass.freecompassapp.digitalcompass": {
-    "version_code": 52,
-    "version_name": "2.4.3"
+    "version_code": 53,
+    "version_name": "2.4.4"
   },
 
   "com.trust.callerapp.blockcall": {
@@ -871,5 +871,40 @@
   "net.biyee.onvifer": {
     "version_code": 2241,
     "version_name": "22.41"
+  },
+
+  "com.files.files": {
+    "version_code": 228,
+    "version_name": "5.7"
+  },
+
+  "com.lockscreen.ilock.os": {
+    "version_code": 18,
+    "version_name": "2.6"
+  },
+
+  "com.mayoh.contact.icontact": {
+    "version_code": 28,
+    "version_name": "1.28"
+  },
+
+  "com.max.postron.proxy": {
+    "version_code": 121,
+    "version_name": "1.2.1"
+  },
+
+  "app.pinya.lime": {
+    "version_code": 29,
+    "version_name": "2.3.3"
+  },
+
+  "com.bigqsys.photosearch.searchbyimage2020": {
+    "version_code": 50,
+    "version_name": "2.1.50"
+  },
+
+  "com.aospstudio.care": {
+    "version_code": 340010280,
+    "version_name": "12.25.0"
   }
 }
