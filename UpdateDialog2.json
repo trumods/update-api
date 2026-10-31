@@ -107,9 +107,8 @@
   },
 
   "pan.alexander.tordnscrypt.gp": {
-    "check_interval": 24,
     "version_code": 0,
-    "version_name": "7.5.0"
+    "version_name": "7.6.0"
   },
 
   "kha.prog.usbhotspot": {
@@ -971,5 +970,10 @@
   "com.xapkinstaller.imod": {
     "version_code": 13,
     "version_name": "2.3"
+  },
+
+  "net.kreosoft.android.mynotes": {
+    "version_code": 125,
+    "version_name": "2.3.3"
   }
 }
