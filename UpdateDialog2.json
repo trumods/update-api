@@ -170,8 +170,8 @@
   },
 
   "com.salt.music": {
-    "version_code": 2026102402,
-    "version_name": "12.5.1-play"
+    "version_code": 2026102801,
+    "version_name": "12.5.2-play"
   },
 
   "jp.ne.hardyinfinity.bluelightfilter.free": {
@@ -312,8 +312,8 @@
   },
 
   "com.oh.bro": {
-    "version_code": 230,
-    "version_name": "230"
+    "version_code": 240,
+    "version_name": "240"
   },
 
   "com.dong.multirun": {
@@ -412,8 +412,8 @@
   },
 
   "com.multiapp.morespace.app": {
-    "version_code": 89,
-    "version_name": "1.0.75.20"
+    "version_code": 104,
+    "version_name": "1.0.83.10"
   },
 
   "com.sportzx.live": {
@@ -744,8 +744,8 @@
   },
 
   "com.rocks.music.videoplayer": {
-    "version_code": 1204,
-    "version_name": "v12.1.470"
+    "version_code": 1207,
+    "version_name": "v12.1.473"
   },
 
   "com.netblade.tools": {
@@ -834,8 +834,8 @@
   },
 
   "com.weixikeji.secretshoot.googleV2": {
-    "version_code": 442,
-    "version_name": "4.4.2"
+    "version_code": 443,
+    "version_name": "4.4.3"
   },
 
   "slide.widgetFrenzy": {
@@ -924,8 +924,8 @@
   },
 
   "com.droidnova.clipboardhistory": {
-    "version_code": 47,
-    "version_name": "1.47"
+    "version_code": 50,
+    "version_name": "1.50"
   },
 
   "do.multiple.cloner": {
@@ -946,5 +946,30 @@
   "de.softxperience.android.noteeverything": {
     "version_code": 217,
     "version_name": "4.13.0"
+  },
+
+  "com.ongaku": {
+    "version_code": 215,
+    "version_name": "6.22.0-215"
+  },
+
+  "net.kreosoft.android.mydiary": {
+    "version_code": 106,
+    "version_name": "2.3.3"
+  },
+
+  "com.cmaster.cloner": {
+    "version_code": 20082,
+    "version_name": "2.8.2.20"
+  },
+
+  "com.jba.shortcutmaker": {
+    "version_code": 4,
+    "version_name": "1.0.3"
+  },
+
+  "com.xapkinstaller.imod": {
+    "version_code": 13,
+    "version_name": "2.3"
   }
 }
