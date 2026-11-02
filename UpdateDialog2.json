@@ -1000,5 +1000,10 @@
   "com.rgiskard.fairnote": {
     "version_code": 10569,
     "version_name": "5.6.9"
+  },
+
+  "com.mycompany.app.soulbrowser": {
+    "version_code": 486,
+    "version_name": "1.4.86"
   }
 }
