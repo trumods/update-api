@@ -295,8 +295,8 @@
   },
 
   "com.accspace.dapp": {
-    "version_code": 39,
-    "version_name": "1.1.7.1000"
+    "version_code": 40,
+    "version_name": "1.1.7.1001"
     
   },
 
@@ -311,8 +311,8 @@
   },
 
   "com.oh.bro": {
-    "version_code": 242,
-    "version_name": "242"
+    "version_code": 243,
+    "version_name": "243"
   },
 
   "com.dong.multirun": {
@@ -447,8 +447,8 @@
   },
 
   "com.pengyou.cloneapp": {
-    "version_code": 838,
-    "version_name": "4.2.3"
+    "version_code": 840,
+    "version_name": "4.2.4"
   },
 
   "com.AFG.internetspeedmeter": {
@@ -578,13 +578,13 @@
   },
 
   "com.iptools.networkmanager.pk": {
-    "version_code": 58,
-    "version_name": "2.0.4"
+    "version_code": 59,
+    "version_name": "2.0.5"
   },
 
   "com.codedac.clipboard": {
-    "version_code": 169,
-    "version_name": "10.16.0"
+    "version_code": 171,
+    "version_name": "10.17.0"
   },
 
   "com.codedac.volumebooster": {
@@ -838,8 +838,8 @@
   },
 
   "slide.widgetFrenzy": {
-    "version_code": 30401,
-    "version_name": "3.0.4"
+    "version_code": 30501,
+    "version_name": "3.0.5"
   },
 
   "com.wixsite.ut_app.utalarm": {
@@ -923,8 +923,8 @@
   },
 
   "com.droidnova.clipboardhistory": {
-    "version_code": 50,
-    "version_name": "1.50"
+    "version_code": 51,
+    "version_name": "1.51"
   },
 
   "do.multiple.cloner": {
@@ -933,8 +933,8 @@
   },
 
   "app.remote.adb": {
-    "version_code": 13,
-    "version_name": "2.3"
+    "version_code": 14,
+    "version_name": "2.4"
   },
 
   "com.jrzheng.supervpnpayment": {
@@ -1015,5 +1015,10 @@
   "com.arslan.flowactions": {
     "version_code": 9,
     "version_name": "3.1"
+  },
+
+  "com.basitce.htmltoapk": {
+    "version_code": 39,
+    "version_name": "1.31"
   }
 }
