@@ -122,8 +122,8 @@
   },
 
   "com.offshore.picasso": {
-    "version_code": 58,
-    "version_name": "10.14.2"
+    "version_code": 60,
+    "version_name": "10.14.5"
   },
 
   "com.atolphadev.quikshort": {
@@ -1020,5 +1020,10 @@
   "com.basitce.htmltoapk": {
     "version_code": 39,
     "version_name": "1.31"
+  },
+
+  "com.serialcloud.usbterminal": {
+    "version_code": 10,
+    "version_name": "1.6.0"
   }
 }
