@@ -199,8 +199,8 @@
   },
 
   "com.beta9dev.imagedownloader": {
-    "version_code": 127,
-    "version_name": "2.9.0"
+    "version_code": 129,
+    "version_name": "2.11.0"
   },
 
   "com.e9foreverfs.note": {
@@ -543,7 +543,7 @@
   },
 
   "io.android.xapkextractor": {
-    "version_code": 10,
+    "version_code": 11,
     "version_name": "1.0"
   },
 
@@ -598,8 +598,8 @@
   },
 
   "com.bottomnotifications.app": {
-    "version_code": 46,
-    "version_name": "2.8"
+    "version_code": 47,
+    "version_name": "2.9"
   },
 
   "com.edgevpn.secure.proxy.unblock": {
@@ -683,13 +683,13 @@
   },
 
   "com.appums.music_pitcher": {
-    "version_code": 4214,
-    "version_name": "42.14"
+    "version_code": 4217,
+    "version_name": "42.17"
   },
 
   "com.appums.music_pitcher_radio": {
-    "version_code": 155,
-    "version_name": "1.55"
+    "version_code": 157,
+    "version_name": "1.57"
   },
 
   "com.ilixa.chroma": {
@@ -698,8 +698,8 @@
   },
 
   "ax.filemanager.android.files.fileexplorer.folder": {
-    "version_code": 260906304,
-    "version_name": "2026.10.1"
+    "version_code": 260906308,
+    "version_name": "2026.11.4"
   },
 
   "com.appplanex.qrcodegeneratorscanner": {
@@ -878,8 +878,8 @@
   },
 
   "com.lockscreen.ilock.os": {
-    "version_code": 19,
-    "version_name": "2.7"
+    "version_code": 20,
+    "version_name": "2.8"
   },
 
   "com.mayoh.contact.icontact": {
@@ -918,8 +918,8 @@
   },
 
   "com.droidnova.notificationhistory": {
-    "version_code": 27,
-    "version_name": "1.27"
+    "version_code": 30,
+    "version_name": "1.30"
   },
 
   "com.droidnova.clipboardhistory": {
@@ -983,8 +983,8 @@
   },
 
   "mochat.multiple.parallel.whatsclone": {
-    "version_code": 5300,
-    "version_name": "5.3.00.1028"
+    "version_code": 5310,
+    "version_name": "5.3.10.1104"
   },
 
   "com.poseful.app": {
@@ -1025,5 +1025,15 @@
   "com.serialcloud.usbterminal": {
     "version_code": 10,
     "version_name": "1.6.0"
+  },
+
+  "com.doracone.stagvpn": {
+    "version_code": 80,
+    "version_name": "19.0.0"
+  },
+
+  "com.challangephaseone.picture.paste": {
+    "version_code": 155,
+    "version_name": "4.7.0"
   }
 }
