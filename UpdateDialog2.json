@@ -85,8 +85,8 @@
   },
 
   "com.pengyou.videodownloader": {
-    "version_code": 161,
-    "version_name": "1.2.5"
+    "version_code": 166,
+    "version_name": "1.2.8"
   },
 
   "com.burakgon.netoptimizer": {
@@ -285,8 +285,8 @@
   },
 
   "com.gorillasoftware.everyproxy": {
-    "version_code": 133,
-    "version_name": "21.0.0"
+    "version_code": 136,
+    "version_name": "21.0.3"
   },
 
   "kha.prog.mikrotik": {
@@ -311,13 +311,13 @@
   },
 
   "com.oh.bro": {
-    "version_code": 246,
-    "version_name": "246"
+    "version_code": 248,
+    "version_name": "248"
   },
 
   "com.dong.multirun": {
-    "version_code": 55,
-    "version_name": "1.0.55.20"
+    "version_code": 57,
+    "version_name": "1.0.57.20"
   },
 
   "com.mtmtunnel.lite": {
@@ -351,8 +351,8 @@
   },
 
   "com.luckydeveloper.apkshare": {
-    "version_code": 164,
-    "version_name": "5.16.19"
+    "version_code": 165,
+    "version_name": "5.16.20"
   },
 
   "com.codex.torrentx": {
@@ -528,8 +528,8 @@
 
   "com.joeykrim.rootcheck": {
     "check_interval": 24,
-    "version_code": 211,
-    "version_name": "6.5.12"
+    "version_code": 212,
+    "version_name": "6.5.13"
   },
 
   "com.campstudio.apkinstaller": {
@@ -583,8 +583,8 @@
   },
 
   "com.codedac.clipboard": {
-    "version_code": 171,
-    "version_name": "10.17.0"
+    "version_code": 174,
+    "version_name": "10.18.2"
   },
 
   "com.codedac.volumebooster": {
@@ -643,8 +643,8 @@
   },
 
   "com.kutblog.arabicbanglaquran": {
-    "version_code": 1116,
-    "version_name": "11.1.6"
+    "version_code": 1117,
+    "version_name": "11.1.7"
   },
 
   "com.remixstudios.webbiebase": {
@@ -683,13 +683,13 @@
   },
 
   "com.appums.music_pitcher": {
-    "version_code": 4217,
-    "version_name": "42.17"
+    "version_code": 4218,
+    "version_name": "42.18"
   },
 
   "com.appums.music_pitcher_radio": {
-    "version_code": 159,
-    "version_name": "1.59"
+    "version_code": 160,
+    "version_name": "1.60"
   },
 
   "com.ilixa.chroma": {
@@ -723,8 +723,8 @@
   },
 
   "pamiesolutions.blacklistcall": {
-    "version_code": 266,
-    "version_name": "19.9.7"
+    "version_code": 269,
+    "version_name": "19.11.1"
   },
 
   "drawing.trace.sketch.draw.anything": {
@@ -748,8 +748,8 @@
   },
 
   "com.netblade.tools": {
-    "version_code": 100,
-    "version_name": "1.9.0"
+    "version_code": 104,
+    "version_name": "1.9.1"
   },
 
   "webtools.ddm.com.webtools": {
@@ -863,13 +863,13 @@
   },
 
   "com.soundwave": {
-    "version_code": 340010288,
-    "version_name": "12.26.1"
+    "version_code": 340010291,
+    "version_name": "12.27.0"
   },
 
   "net.biyee.onvifer": {
-    "version_code": 2245,
-    "version_name": "22.45"
+    "version_code": 2249,
+    "version_name": "22.49"
   },
 
   "com.files.files": {
@@ -903,8 +903,8 @@
   },
 
   "com.aospstudio.care": {
-    "version_code": 340010288,
-    "version_name": "12.26.1"
+    "version_code": 340010291,
+    "version_name": "12.27.0"
   },
 
   "com.ksxkq.autoclick": {
@@ -928,8 +928,8 @@
   },
 
   "do.multiple.cloner": {
-    "version_code": 45000,
-    "version_name": "4.50.00.1028"
+    "version_code": 46000,
+    "version_name": "4.60.00.1106"
   },
 
   "app.remote.adb": {
@@ -983,8 +983,8 @@
   },
 
   "mochat.multiple.parallel.whatsclone": {
-    "version_code": 5310,
-    "version_name": "5.3.10.1104"
+    "version_code": 5311,
+    "version_name": "5.3.11.1106"
   },
 
   "com.poseful.app": {
@@ -1050,5 +1050,20 @@
   "com.appsinception.networkinfo": {
     "version_code": 57,
     "version_name": "2.1.2"
+  },
+
+  "com.sunfire.audio.editor": {
+    "version_code": 145,
+    "version_name": "1.4.5"
+  },
+
+  "com.inunxlabs.easydns": {
+    "version_code": 340,
+    "version_name": "1.05.34(340)"
+  },
+
+  "com.shan.ddns_x": {
+    "version_code": 27,
+    "version_name": "1.2.6"
   }
 }
