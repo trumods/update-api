@@ -49,8 +49,8 @@
   },
 
   "proxy.browser.unblock.sites.proxybrowser.unblocksites": {
-    "version_code": 220,
-    "version_name": "5.4.1.0"
+    "version_code": 303,
+    "version_name": "6.0.3"
   },
 
   "com.skyjos.apps.fileexplorerfree": {
@@ -164,8 +164,8 @@
   },
 
   "app.namso_gen.spacehowen": {
-    "version_code": 129,
-    "version_name": "11.27"
+    "version_code": 2147483647,
+    "version_name": "11.28"
   },
 
   "com.salt.music": {
@@ -275,13 +275,13 @@
   },
 
   "com.giamping.v2rayex": {
-    "version_code": 20261016,
-    "version_name": "20261016"
+    "version_code": 20261111,
+    "version_name": "20261111"
   },
 
   "com.dajiu.stay": {
-    "version_code": 70,
-    "version_name": "1.6.1"
+    "version_code": 71,
+    "version_name": "1.6.2"
   },
 
   "com.gorillasoftware.everyproxy": {
@@ -366,13 +366,13 @@
   },
 
   "com.giamping.socks5": {
-    "version_code": 20261016,
-    "version_name": "20261016"
+    "version_code": 20261111,
+    "version_name": "20261111"
   },
 
   "com.giamping.gpvpn": {
-    "version_code": 20261016,
-    "version_name": "20261016"
+    "version_code": 20261111,
+    "version_name": "20261111"
   },
 
   "com.zerone.hidesktop": {
@@ -381,8 +381,8 @@
   },
 
   "com.giamping.sevpn": {
-    "version_code": 20261016,
-    "version_name": "20261016"
+    "version_code": 20261111,
+    "version_name": "20261111"
   },
 
   "com.biomes.vanced": {
@@ -411,8 +411,8 @@
   },
 
   "com.multiapp.morespace.app": {
-    "version_code": 104,
-    "version_name": "1.0.83.10"
+    "version_code": 106,
+    "version_name": "1.0.85.20"
   },
 
   "com.sportzx.live": {
@@ -472,8 +472,8 @@
   },
 
   "com.urbanvpn.android": {
-    "version_code": 162,
-    "version_name": "2.2.4"
+    "version_code": 165,
+    "version_name": "2.3.0"
   },
 
   "faceapp.photoeditor.face.faceedit.faceeditor": {
@@ -583,13 +583,13 @@
   },
 
   "com.codedac.clipboard": {
-    "version_code": 174,
-    "version_name": "10.18.2"
+    "version_code": 176,
+    "version_name": "10.19.0"
   },
 
   "com.codedac.volumebooster": {
-    "version_code": 35,
-    "version_name": "1.2.7"
+    "version_code": 36,
+    "version_name": "1.3.0"
   },
 
   "app.notedraft.noteall": {
@@ -598,18 +598,18 @@
   },
 
   "com.bottomnotifications.app": {
-    "version_code": 48,
-    "version_name": "2.9"
+    "version_code": 50,
+    "version_name": "3.0"
   },
 
   "com.edgevpn.secure.proxy.unblock": {
-    "version_code": 77,
-    "version_name": "1.7.6"
+    "version_code": 80,
+    "version_name": "1.7.9"
   },
 
   "com.ideastocode.nonet": {
-    "version_code": 19,
-    "version_name": "3.5"
+    "version_code": 20,
+    "version_name": "3.6"
   },
 
   "com.playit.videoplayer": {
@@ -623,8 +623,8 @@
   },
 
   "com.frack.spotiq": {
-    "version_code": 185,
-    "version_name": "BBS.2.8.0"
+    "version_code": 187,
+    "version_name": "BBS.3.0.0"
   },
 
   "com.zonarmr.dnsify": {
@@ -683,8 +683,8 @@
   },
 
   "com.appums.music_pitcher": {
-    "version_code": 4218,
-    "version_name": "42.18"
+    "version_code": 4219,
+    "version_name": "42.19"
   },
 
   "com.appums.music_pitcher_radio": {
@@ -698,8 +698,8 @@
   },
 
   "ax.filemanager.android.files.fileexplorer.folder": {
-    "version_code": 260906308,
-    "version_name": "2026.11.4"
+    "version_code": 260906310,
+    "version_name": "2026.11.13"
   },
 
   "com.appplanex.qrcodegeneratorscanner": {
@@ -708,8 +708,8 @@
   },
 
   "com.learnlanguage.tenminuteenglish.speakanewlanguage": {
-    "version_code": 39,
-    "version_name": "1.3.8"
+    "version_code": 40,
+    "version_name": "1.3.9"
   },
 
   "website.techalbania.generaldns": {
@@ -723,8 +723,8 @@
   },
 
   "pamiesolutions.blacklistcall": {
-    "version_code": 269,
-    "version_name": "19.11.1"
+    "version_code": 271,
+    "version_name": "19.12.1"
   },
 
   "drawing.trace.sketch.draw.anything": {
@@ -748,8 +748,8 @@
   },
 
   "com.netblade.tools": {
-    "version_code": 104,
-    "version_name": "1.9.1"
+    "version_code": 105,
+    "version_name": "1.9.2"
   },
 
   "webtools.ddm.com.webtools": {
@@ -793,8 +793,8 @@
   },
 
   "com.andcreate.app.trafficmonitor": {
-    "version_code": 3367,
-    "version_name": "1.25.3367"
+    "version_code": 3384,
+    "version_name": "1.26.3384"
   },
 
   "com.tqz.appinf": {
@@ -938,18 +938,18 @@
   },
 
   "com.jrzheng.supervpnpayment": {
-    "version_code": 71,
-    "version_name": "2.1.1"
+    "version_code": 72,
+    "version_name": "2.1.2"
   },
 
   "de.softxperience.android.noteeverything": {
-    "version_code": 217,
-    "version_name": "4.13.0"
+    "version_code": 219,
+    "version_name": "4.14.1"
   },
 
   "com.ongaku": {
-    "version_code": 215,
-    "version_name": "6.22.0-215"
+    "version_code": 216,
+    "version_name": "6.23.0-216"
   },
 
   "net.kreosoft.android.mydiary": {
@@ -973,8 +973,8 @@
   },
 
   "net.kreosoft.android.mynotes": {
-    "version_code": 125,
-    "version_name": "2.3.3"
+    "version_code": 126,
+    "version_name": "2.3.4"
   },
 
   "com.iot71.bluetoothterminal": {
@@ -1028,7 +1028,7 @@
   },
 
   "com.doracone.stagvpn": {
-    "version_code": 80,
+    "version_code": 81,
     "version_name": "19.0.0"
   },
 
@@ -1065,5 +1065,35 @@
   "com.shan.ddns_x": {
     "version_code": 27,
     "version_name": "1.2.6"
+  },
+
+  "com.polyhistor.shadetype": {
+    "version_code": 54,
+    "version_name": "1.0.6"
+  },
+
+  "com.quickcursor": {
+    "version_code": 261,
+    "version_name": "3.1.0"
+  },
+
+  "com.amnis": {
+    "version_code": 9010018,
+    "version_name": "1.0.18"
+  },
+
+  "com.polyhistor.aura": {
+    "version_code": 48,
+    "version_name": "1.0.7"
+  },
+
+  "com.zerch.widget": {
+    "version_code": 181,
+    "version_name": "2.3.3"
+  },
+
+  "com.quiz.creator.question.testmaker": {
+    "version_code": 54,
+    "version_name": "6.0.0"
   }
 }
