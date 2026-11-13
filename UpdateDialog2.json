@@ -265,8 +265,8 @@
   },
 
   "multi.parallel.dualspace.cloner": {
-    "version_code": 4170,
-    "version_name": "4.1.70.1030"
+    "version_code": 4200,
+    "version_name": "4.2.00.1110"
   },
 
   "com.free.vpn.super.hotspot.open": {
@@ -295,8 +295,8 @@
   },
 
   "com.accspace.dapp": {
-    "version_code": 40,
-    "version_name": "1.1.7.1001"
+    "version_code": 41,
+    "version_name": "1.1.7.1002"
     
   },
 
@@ -351,8 +351,8 @@
   },
 
   "com.luckydeveloper.apkshare": {
-    "version_code": 165,
-    "version_name": "5.16.20"
+    "version_code": 167,
+    "version_name": "5.16.22"
   },
 
   "com.codex.torrentx": {
@@ -386,8 +386,8 @@
   },
 
   "com.biomes.vanced": {
-    "version_code": 90681136,
-    "version_name": "5.6.81.136"
+    "version_code": 90681145,
+    "version_name": "5.6.81.145"
   },
 
   "open.chat.gpt.aichat.bot.free.app": {
@@ -1095,5 +1095,10 @@
   "com.quiz.creator.question.testmaker": {
     "version_code": 54,
     "version_name": "6.0.0"
+  },
+
+  "appnovatica.stbp": {
+    "version_code": 26111201,
+    "version_name": "1.7.6.1"
   }
 }
