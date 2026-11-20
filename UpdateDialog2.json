@@ -583,8 +583,8 @@
   },
 
   "com.codedac.clipboard": {
-    "version_code": 179,
-    "version_name": "10.19.3"
+    "version_code": 181,
+    "version_name": "10.21.0"
   },
 
   "com.codedac.volumebooster": {
@@ -678,18 +678,18 @@
   },
 
   "com.nostudio.novolume": {
-    "version_code": 115,
-    "version_name": "5.4"
+    "version_code": 117,
+    "version_name": "5.5"
   },
 
   "com.appums.music_pitcher": {
-    "version_code": 4219,
-    "version_name": "42.19"
+    "version_code": 4220,
+    "version_name": "42.20"
   },
 
   "com.appums.music_pitcher_radio": {
-    "version_code": 160,
-    "version_name": "1.60"
+    "version_code": 161,
+    "version_name": "1.61"
   },
 
   "com.ilixa.chroma": {
@@ -743,13 +743,13 @@
   },
 
   "com.rocks.music.videoplayer": {
-    "version_code": 1207,
-    "version_name": "v12.1.473"
+    "version_code": 1212,
+    "version_name": "v12.1.478"
   },
 
   "com.netblade.tools": {
-    "version_code": 111,
-    "version_name": "1.9.5"
+    "version_code": 113,
+    "version_name": "1.9.6"
   },
 
   "webtools.ddm.com.webtools": {
@@ -828,8 +828,8 @@
   },
 
   "partl.atomicclock": {
-    "version_code": 142,
-    "version_name": "2.1.23"
+    "version_code": 143,
+    "version_name": "2.1.24"
   },
 
   "com.weixikeji.secretshoot.googleV2": {
@@ -863,8 +863,8 @@
   },
 
   "com.soundwave": {
-    "version_code": 340010291,
-    "version_name": "12.27.0"
+    "version_code": 340010297,
+    "version_name": "12.28.0"
   },
 
   "net.biyee.onvifer": {
@@ -1033,8 +1033,8 @@
   },
 
   "com.challangephaseone.picture.paste": {
-    "version_code": 155,
-    "version_name": "4.7.0"
+    "version_code": 157,
+    "version_name": "4.7.1"
   },
 
   "tej.wifithiefdetector": {
@@ -1083,8 +1083,8 @@
   },
 
   "com.polyhistor.aura": {
-    "version_code": 48,
-    "version_name": "1.0.7"
+    "version_code": 51,
+    "version_name": "1.0.8"
   },
 
   "com.zerch.widget": {
@@ -1128,7 +1128,27 @@
   },
 
   "com.multispace.appcloner": {
-    "version_code": 36,
-    "version_name": "1.0.30"
+    "version_code": 38,
+    "version_name": "1.0.32"
+  },
+
+  "com.pstore.savelocations": {
+    "version_code": 92,
+    "version_name": "3.2.1"
+  },
+
+  "compass.flashlight.speedometer": {
+    "version_code": 57,
+    "version_name": "5.8"
+  },
+
+  "com.risingdev.ultrawide.camera05x": {
+    "version_code": 5,
+    "version_name": "1.2"
+  },
+
+  "com.andcreate.app.internetspeedmonitor": {
+    "version_code": 1220,
+    "version_name": "1.2.2"
   }
 }
