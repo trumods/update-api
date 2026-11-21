@@ -239,8 +239,8 @@
   },
 
   "com.shicichaxun.video": {
-    "version_code": 55,
-    "version_name": "1.3.32"
+    "version_code": 57,
+    "version_name": "1.3.34"
   },
 
   "com.tester.wpswpatester": {
@@ -285,8 +285,8 @@
   },
 
   "com.gorillasoftware.everyproxy": {
-    "version_code": 137,
-    "version_name": "21.0.4"
+    "version_code": 138,
+    "version_name": "21.0.5"
   },
 
   "kha.prog.mikrotik": {
@@ -311,13 +311,13 @@
   },
 
   "com.oh.bro": {
-    "version_code": 251,
-    "version_name": "251"
+    "version_code": 252,
+    "version_name": "252"
   },
 
   "com.dong.multirun": {
-    "version_code": 57,
-    "version_name": "1.0.57.20"
+    "version_code": 58,
+    "version_name": "1.0.58.20"
   },
 
   "com.mtmtunnel.lite": {
@@ -421,8 +421,8 @@
   },
 
   "net.podslink": {
-    "version_code": 98,
-    "version_name": "1.4.8"
+    "version_code": 99,
+    "version_name": "1.4.9"
   },
 
   "kika.emoji.keyboard.teclados.clavier": {
@@ -472,8 +472,8 @@
   },
 
   "com.urbanvpn.android": {
-    "version_code": 166,
-    "version_name": "2.3.1"
+    "version_code": 167,
+    "version_name": "2.3.2"
   },
 
   "faceapp.photoeditor.face.faceedit.faceeditor": {
@@ -588,8 +588,8 @@
   },
 
   "com.codedac.volumebooster": {
-    "version_code": 38,
-    "version_name": "1.3.2"
+    "version_code": 41,
+    "version_name": "1.3.5"
   },
 
   "app.notedraft.noteall": {
@@ -598,8 +598,8 @@
   },
 
   "com.bottomnotifications.app": {
-    "version_code": 53,
-    "version_name": "3.0"
+    "version_code": 54,
+    "version_name": "3.1"
   },
 
   "com.edgevpn.secure.proxy.unblock": {
@@ -658,8 +658,8 @@
   },
 
   "com.yousx.thetoolsapp": {
-    "version_code": 44,
-    "version_name": "1.44"
+    "version_code": 45,
+    "version_name": "1.45"
   },
 
   "com.allakore.swapnoroot": {
@@ -698,8 +698,8 @@
   },
 
   "ax.filemanager.android.files.fileexplorer.folder": {
-    "version_code": 260906314,
-    "version_name": "2026.11.16"
+    "version_code": 260906316,
+    "version_name": "2026.11.20"
   },
 
   "com.appplanex.qrcodegeneratorscanner": {
@@ -748,8 +748,8 @@
   },
 
   "com.netblade.tools": {
-    "version_code": 113,
-    "version_name": "1.9.6"
+    "version_code": 114,
+    "version_name": "1.9.7"
   },
 
   "webtools.ddm.com.webtools": {
@@ -918,8 +918,8 @@
   },
 
   "com.droidnova.notificationhistory": {
-    "version_code": 30,
-    "version_name": "1.30"
+    "version_code": 32,
+    "version_name": "1.32"
   },
 
   "com.droidnova.clipboardhistory": {
@@ -1028,8 +1028,8 @@
   },
 
   "com.doracone.stagvpn": {
-    "version_code": 82,
-    "version_name": "19.0.1"
+    "version_code": 83,
+    "version_name": "19.0.2"
   },
 
   "com.challangephaseone.picture.paste": {
@@ -1048,8 +1048,8 @@
   },
 
   "com.appsinception.networkinfo": {
-    "version_code": 57,
-    "version_name": "2.1.2"
+    "version_code": 59,
+    "version_name": "2.1.3"
   },
 
   "com.sunfire.audio.editor": {
@@ -1150,5 +1150,10 @@
   "com.andcreate.app.internetspeedmonitor": {
     "version_code": 1220,
     "version_name": "1.2.2"
+  },
+
+  "com.teekamsuthar.mutifypro": {
+    "version_code": 26,
+    "version_name": "1.1.0"
   }
 }
