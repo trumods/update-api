@@ -44,8 +44,8 @@
   },
 
   "jp.co.medialogic.usbmounter": {
-    "version_code": 98,
-    "version_name": "2.04.007"
+    "version_code": 99,
+    "version_name": "2.05.002"
   },
 
   "proxy.browser.unblock.sites.proxybrowser.unblocksites": {
@@ -311,8 +311,8 @@
   },
 
   "com.oh.bro": {
-    "version_code": 252,
-    "version_name": "252"
+    "version_code": 253,
+    "version_name": "253"
   },
 
   "com.dong.multirun": {
@@ -341,8 +341,8 @@
   },
 
   "by.green.tuber": {
-    "version_code": 151,
-    "version_name": "0.2.0.2"
+    "version_code": 152,
+    "version_name": "0.2.0.3"
   },
 
   "com.jannatott.app": {
@@ -583,8 +583,8 @@
   },
 
   "com.codedac.clipboard": {
-    "version_code": 181,
-    "version_name": "10.21.0"
+    "version_code": 182,
+    "version_name": "10.21.1"
   },
 
   "com.codedac.volumebooster": {
@@ -593,8 +593,8 @@
   },
 
   "app.notedraft.noteall": {
-    "version_code": 23,
-    "version_name": "1.5.0"
+    "version_code": 24,
+    "version_name": "1.5.1"
   },
 
   "com.bottomnotifications.app": {
@@ -648,8 +648,8 @@
   },
 
   "com.remixstudios.webbiebase": {
-    "version_code": 174,
-    "version_name": "1.4.34"
+    "version_code": 176,
+    "version_name": "1.4.36"
   },
 
   "com.apps.ai.video.luts.kinocamera": {
@@ -1013,8 +1013,8 @@
   },
 
   "com.arslan.flowactions": {
-    "version_code": 11,
-    "version_name": "3.3"
+    "version_code": 12,
+    "version_name": "3.4"
   },
 
   "com.basitce.htmltoapk": {
@@ -1048,13 +1048,13 @@
   },
 
   "com.appsinception.networkinfo": {
-    "version_code": 59,
-    "version_name": "2.1.3"
+    "version_code": 61,
+    "version_name": "2.1.4"
   },
 
   "com.sunfire.audio.editor": {
-    "version_code": 145,
-    "version_name": "1.4.5"
+    "version_code": 146,
+    "version_name": "1.4.6"
   },
 
   "com.inunxlabs.easydns": {
@@ -1068,8 +1068,8 @@
   },
 
   "com.polyhistor.shadetype": {
-    "version_code": 55,
-    "version_name": "1.0.6"
+    "version_code": 61,
+    "version_name": "1.0.7"
   },
 
   "com.quickcursor": {
@@ -1083,13 +1083,13 @@
   },
 
   "com.polyhistor.aura": {
-    "version_code": 51,
+    "version_code": 52,
     "version_name": "1.0.8"
   },
 
   "com.zerch.widget": {
-    "version_code": 181,
-    "version_name": "2.3.3"
+    "version_code": 182,
+    "version_name": "2.3.4"
   },
 
   "com.quiz.creator.question.testmaker": {
@@ -1155,5 +1155,10 @@
   "com.teekamsuthar.mutifypro": {
     "version_code": 26,
     "version_name": "1.1.0"
+  },
+
+  "pro.vitalii.andropods": {
+    "version_code": 89,
+    "version_name": "1.6.1"
   }
 }
