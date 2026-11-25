@@ -85,8 +85,8 @@
   },
 
   "com.pengyou.videodownloader": {
-    "version_code": 171,
-    "version_name": "1.2.9"
+    "version_code": 174,
+    "version_name": "1.2.10"
   },
 
   "com.burakgon.netoptimizer": {
@@ -311,8 +311,8 @@
   },
 
   "com.oh.bro": {
-    "version_code": 254,
-    "version_name": "254"
+    "version_code": 256,
+    "version_name": "256"
   },
 
   "com.dong.multirun": {
@@ -371,8 +371,8 @@
   },
 
   "com.giamping.gpvpn": {
-    "version_code": 20261120,
-    "version_name": "20261120"
+    "version_code": 20261131,
+    "version_name": "20261131"
   },
 
   "com.zerone.hidesktop": {
@@ -381,8 +381,8 @@
   },
 
   "com.giamping.sevpn": {
-    "version_code": 20261120,
-    "version_name": "20261120"
+    "version_code": 20261131,
+    "version_name": "20261131"
   },
 
   "com.biomes.vanced": {
@@ -763,8 +763,8 @@
   },
 
   "com.rayo.mutevideo": {
-    "version_code": 51,
-    "version_name": "4.8"
+    "version_code": 52,
+    "version_name": "4.9"
   },
 
   "compass.freecompassapp.digitalcompass": {
@@ -948,8 +948,8 @@
   },
 
   "com.ongaku": {
-    "version_code": 216,
-    "version_name": "6.23.0-216"
+    "version_code": 220,
+    "version_name": "6.23.3-220"
   },
 
   "net.kreosoft.android.mydiary": {
@@ -958,8 +958,8 @@
   },
 
   "com.cmaster.cloner": {
-    "version_code": 20082,
-    "version_name": "2.8.2.20"
+    "version_code": 20083,
+    "version_name": "2.8.3.20"
   },
 
   "com.jba.shortcutmaker": {
@@ -1073,8 +1073,8 @@
   },
 
   "com.quickcursor": {
-    "version_code": 269,
-    "version_name": "3.3.3"
+    "version_code": 272,
+    "version_name": "3.4.2"
   },
 
   "com.amnis": {
@@ -1103,8 +1103,8 @@
   },
 
   "com.elm.scan.obd.arny": {
-    "version_code": 169,
-    "version_name": "0.169"
+    "version_code": 170,
+    "version_name": "0.170"
   },
 
   "com.piratecats.cattorrent": {
@@ -1158,8 +1158,8 @@
   },
 
   "pro.vitalii.andropods": {
-    "version_code": 90,
-    "version_name": "1.6.2"
+    "version_code": 92,
+    "version_name": "1.6.4"
   },
 
   "com.shan.ipcamera": {
@@ -1170,5 +1170,15 @@
   "com.kapron.ap.aicamview.tv": {
     "version_code": 110207,
     "version_name": "11.2.7"
+  },
+
+  "com.player.myiptv.myiptv": {
+    "version_code": 89,
+    "version_name": "5.2.9"
+  },
+
+  "iptv.smart.xciptv.xtream.m3u.player.live.tv.channels": {
+    "version_code": 19,
+    "version_name": "1.14.0"
   }
 }
